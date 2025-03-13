@@ -2,6 +2,7 @@ i like to understand things that are difficult to understand
 
 
 On a serious note, I like:
+- Dad jokes
 - Rust
 - Golang
 - Node (TypeScript)
